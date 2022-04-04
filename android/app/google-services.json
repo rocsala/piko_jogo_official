@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "534069171191",
+    "firebase_url": "https://pikojogo-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pikojogo",
+    "storage_bucket": "pikojogo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534069171191:android:9861e8d46c86de24c3d4f2",
+        "android_client_info": {
+          "package_name": "com.example3.collections_xddd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534069171191-m5oshoprf4md4rfbqfsiutsuoug2ttji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example3.collections_xddd",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "534069171191-riq4g39b44b7mliqtt47eo8cj3r3idm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtMQeTl0Tp8PFEr6_v4cdEfYjKH9rpPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534069171191-riq4g39b44b7mliqtt47eo8cj3r3idm4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534069171191-38mb4r8du8hdtsa97086ac54ifk70g61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.pikojogo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534069171191:android:0449254f784470e2c3d4f2",
+        "android_client_info": {
+          "package_name": "com.flutterflow.pikojogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534069171191-sjt8j8vuncdl850l0vals6ej770kqkes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.pikojogo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "534069171191-riq4g39b44b7mliqtt47eo8cj3r3idm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtMQeTl0Tp8PFEr6_v4cdEfYjKH9rpPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534069171191-riq4g39b44b7mliqtt47eo8cj3r3idm4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534069171191-38mb4r8du8hdtsa97086ac54ifk70g61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.pikojogo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

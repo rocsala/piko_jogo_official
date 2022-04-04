@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>534069171191-38mb4r8du8hdtsa97086ac54ifk70g61.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.534069171191-38mb4r8du8hdtsa97086ac54ifk70g61</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>534069171191-m5oshoprf4md4rfbqfsiutsuoug2ttji.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4li0lll7o-Fx41FGcww3hW-i0qmQDmuk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>534069171191</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.pikojogo</string>
+	<key>PROJECT_ID</key>
+	<string>pikojogo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pikojogo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:534069171191:ios:d66e28ccbbd07bb9c3d4f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://pikojogo-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

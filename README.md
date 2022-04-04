@@ -4,6 +4,6 @@ Contributors: Joan Puig, Daniel Maldonado, Roc Sala.
 
 # Welcome to Piko Jogo!
 
-Here are all your favorite games of a lifetime to play from your mobile. Here you will find some classics such as 3 in a row, hanging, super simon, dots and boxes and more.
+Here you have all your favorite games of a lifetime to play directly from your mobile. For example, play games like TIC-TAC-TOE, Hangman, Minesweeper...
 
-Play alone or with yours or you can also call tournaments anywhere in the city, town or in nature to see who is the champion of your class, group of friends, co-workers, family, etc...
+Play alone or with your friends. Also check out who is the champion of that specific minigame by taking a look at the LeaderBoard. Would you like to beat it? Join us now for free!!
